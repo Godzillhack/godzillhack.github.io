@@ -65,7 +65,7 @@ html, body {
     <div class="social-links">
         <a href="https://ctftime.org/team/221027" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQld9fEBZRTqk31ER_3JDwttV1g7rVWK2UEjFQIP2arpA&s" alt="CTFTime"></a>
         <a href="https://app.hackthebox.com/public/teams/overview/5452" target="_blank"><img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="HackTheBox"></a>
-        <a href="https://github.com/Godzillhack" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub"></a>
+        <a href="https://github.com/Godzillhack" target="_blank"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-rouge.png" alt="GitHub"></a>
         <a href="https://twitter.com/godzillhack" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/800px-X_logo_2023.svg.png" alt="X"></a>
         <a href="https://bsky.app/profile/godzillhack.bsky.social" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="BlueSky"></a>
     </div>
