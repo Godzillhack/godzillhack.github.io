@@ -1,0 +1,30 @@
+{{ $channel_id := "UUNUwLCwdRhZuQ9QOs2V7kpw" }}
+
+<style>
+    .video-container {
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .channel-image {
+        width: 60px; /* Adjust the width of the image */
+        vertical-align: middle; /* Align the image vertically */
+    }
+</style>
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed?listType=playlist&list={{ $channel_id }}" allowfullscreen title="YouTube Playlist"></iframe><br>
+</div>
+
+<h3><center><a href="https://www.youtube.com/@samxplogs/" target="_blank"><img src="https://yt3.googleusercontent.com/kOvlWN5QqSki2Tgip3YJ9RqvWxHcM2s8tf5WOgNVfKXR1jXlp2LQhc-3DZd4qUCu0cjpAaTDoA=s176-c-k-c0x00ffffff-no-rj" alt="SamXP Logs YouTube" width="60px"></a><br>Click on the logo to access his YouTube Channel!</center></h3>
