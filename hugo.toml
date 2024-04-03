@@ -66,10 +66,6 @@ paginate = 5
         name = "Videos"
         url = "/videos"
       [[languages.en.menu.main]]
-        identifier = "home"
-        name = "Home"
-        url = "/"
-      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
