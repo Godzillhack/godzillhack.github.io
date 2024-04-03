@@ -8,6 +8,12 @@
     <loc>http://localhost:1313/home/</loc>
     <lastmod>2024-03-26T13:36:17+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hallofshame/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hallofshame/2023/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hallofshame/2024/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
