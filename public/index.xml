@@ -55,6 +55,30 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/news/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;!DOCTYPE html&gt; UTCTF 2024 - WriteUp Godzill’hack reached the 211th place with 3428 points against 854 teams at the UTCTF2024!
+You can find our WriteUp Bellow :
+- V0lk3n WriteUp
+- Zell WriteUp
+31/03/2024 
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>Sam XP Logs : Latest Video</title>
       <link>http://localhost:1313/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
