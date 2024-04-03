@@ -7,4 +7,6 @@ draft = true
 
 # Twitter Feed
 
-<center>{{< twitter-timeline username=godzillhack language=en width=500 height=800 donnottrack=false theme=dark >}}</center>
+<center>{{< twitter-timeline username=godzillhack language=en width=500 height=800 donnottrack=true theme=dark >}}</center>
+<br>
+<center>Note : If Twitter Feed doesn't display correctly, it may be blocked because content blocking is enabled into you'r browser config. You should add "https://platform.twitter.com" to tracking exception and reload this page.</center>
