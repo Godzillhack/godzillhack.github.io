@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta
   name="description"
-  content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 2023 "
+  content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2023 Event&#39;s ByuCTF DeadSec Hero v5 PwnMe KaliCTF BYUCTF 2023 TODO DeadSec CTF 2023 TODO HeroCTF v5 TODO PwnMe Qualifications : &#34;8 bits&#34; TODO KaliCTF 2023 - 10 Years Anniversary TODO"
 />
 <meta
   name="keywords"
@@ -44,12 +44,20 @@
 
 
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 2023 "/>
+<meta name="twitter:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2023 Event&#39;s ByuCTF DeadSec Hero v5 PwnMe KaliCTF BYUCTF 2023 TODO
+DeadSec CTF 2023 TODO
+HeroCTF v5 TODO
+PwnMe Qualifications : &#34;8 bits&#34; TODO
+KaliCTF 2023 - 10 Years Anniversary TODO"/>
 
 
 
 <meta property="og:title" content="" />
-<meta property="og:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 2023 " />
+<meta property="og:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2023 Event&#39;s ByuCTF DeadSec Hero v5 PwnMe KaliCTF BYUCTF 2023 TODO
+DeadSec CTF 2023 TODO
+HeroCTF v5 TODO
+PwnMe Qualifications : &#34;8 bits&#34; TODO
+KaliCTF 2023 - 10 Years Anniversary TODO" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/hallofshame/2023/" /><meta property="article:section" content="hallofshame" />
 
@@ -268,7 +276,108 @@ body {
 </body>
 </html>
 
-<h3>2023</h3>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+ 
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #333;
+}
+
+ 
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  color: white;
+}
+
+ 
+.tab button:hover {
+  background-color: #ff0000;
+}
+
+ 
+.tab button.active {
+  background-color: #ff6666;
+}
+
+ 
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+</head>
+<body>
+
+<h2>2023 Event's</h2>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCTF(event, 'ByuCTF')">ByuCTF</button>
+  <button class="tablinks" onclick="openCTF(event, 'DeadSecCTF')">DeadSec</button>
+  <button class="tablinks" onclick="openCTF(event, 'HeroCTF')">Hero v5</button>
+  <button class="tablinks" onclick="openCTF(event, 'PwnMe')">PwnMe</button>
+  <button class="tablinks" onclick="openCTF(event, 'KaliCTF')">KaliCTF</button>
+</div>
+
+<div id="ByuCTF" class="tabcontent">
+  <h3>BYUCTF 2023</h3>
+  <p>TODO</p>
+</div>
+
+<div id="DeadSecCTF" class="tabcontent">
+  <h3>DeadSec CTF 2023</h3>
+  <p>TODO</p>
+</div>
+
+<div id="HeroCTF" class="tabcontent">
+  <h3>HeroCTF v5</h3>
+  <p>TODO</p> 
+</div>
+
+<div id="PwnMe" class="tabcontent">
+  <h3>PwnMe Qualifications : "8 bits"</h3>
+  <p>TODO</p>
+</div>
+
+<div id="KaliCTF" class="tabcontent">
+  <h3>KaliCTF 2023 - 10 Years Anniversary</h3>
+  <p>TODO</p>
+</div>
+
+<script>
+function openCTF(evt, ctfName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(ctfName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+   
+</body>
+</html> 
+
 
     </div>
     
