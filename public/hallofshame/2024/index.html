@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta
   name="description"
-  content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 2024 "
+  content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2024 Event&#39;s UTCTF TexSaw CyberApocalypse Osu! UTCTF 2024 TODO Texas Security Awareness Week 2024 TODO HTB Cyber Apocalypse : Hacker Royale TODO OSU!Gaming CTF 2024 TODO"
 />
 <meta
   name="keywords"
@@ -44,12 +44,18 @@
 
 
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 2024 "/>
+<meta name="twitter:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2024 Event&#39;s UTCTF TexSaw CyberApocalypse Osu! UTCTF 2024 TODO
+Texas Security Awareness Week 2024 TODO
+HTB Cyber Apocalypse : Hacker Royale TODO
+OSU!Gaming CTF 2024 TODO"/>
 
 
 
 <meta property="og:title" content="" />
-<meta property="og:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 2024 " />
+<meta property="og:description" content="&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2024 Event&#39;s UTCTF TexSaw CyberApocalypse Osu! UTCTF 2024 TODO
+Texas Security Awareness Week 2024 TODO
+HTB Cyber Apocalypse : Hacker Royale TODO
+OSU!Gaming CTF 2024 TODO" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/hallofshame/2024/" /><meta property="article:section" content="hallofshame" />
 
@@ -268,7 +274,102 @@ body {
 </body>
 </html>
 
-<h3>2024</h3>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+ 
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #333;
+}
+
+ 
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  color: white;
+}
+
+ 
+.tab button:hover {
+  background-color: #ff0000;
+}
+
+ 
+.tab button.active {
+  background-color: #ff6666;
+}
+
+ 
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+</head>
+<body>
+
+<h2>2024 Event's</h2>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCTF(event, 'UTCTF')">UTCTF</button>
+  <button class="tablinks" onclick="openCTF(event, 'texsaw')">TexSaw</button>
+  <button class="tablinks" onclick="openCTF(event, 'CyberApocalypse')">CyberApocalypse</button>
+  <button class="tablinks" onclick="openCTF(event, 'Osu')">Osu!</button>
+</div>
+
+<div id="UTCTF" class="tabcontent">
+  <h3>UTCTF 2024</h3>
+  <p>TODO</p>
+</div>
+
+<div id="texsaw" class="tabcontent">
+  <h3>Texas Security Awareness Week 2024</h3>
+  <p>TODO</p> 
+</div>
+
+<div id="CyberApocalypse" class="tabcontent">
+  <h3>HTB Cyber Apocalypse : Hacker Royale</h3>
+  <p>TODO</p>
+</div>
+
+<div id="Osu" class="tabcontent">
+  <h3>OSU!Gaming CTF 2024</h3>
+  <p>TODO</p>
+</div>
+
+<script>
+function openCTF(evt, ctfName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(ctfName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+   
+</body>
+</html> 
+
 
     </div>
     
