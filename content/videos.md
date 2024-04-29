@@ -1,6 +1,6 @@
 +++
 title = "Sam XP Logs : Latest Video"
-draft = true
+draft = false
 +++
 
 {{< youtube_latest_playlist >}}

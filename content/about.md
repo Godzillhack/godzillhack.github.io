@@ -1,6 +1,6 @@
 +++
 title = 'About Us'
-draft = true
+draft = false
 +++
 
 {{< about >}}

@@ -1,7 +1,7 @@
 +++
 title = "Godzill'hack Team"
 date = 2024-03-26T14:14:04+01:00
-draft = true
+draft = false
 +++
 
 <!DOCTYPE html>
@@ -61,6 +61,9 @@ html, body {
 <body>
     <div class="GHlogo">
     	<img id="GHlogo" src="img/godzillhack-logo.png" alt="Logo Godzillhack" />
+    </div>
+    <div>
+        <center><a href="https://app.hackthebox.com/public/teams/overview/5452"><img src="https://www.hackthebox.com/badge/team/image/5452" alt="Hack The Box"></a></center>
     </div>
     <div class="social-links">
         <a href="https://ctftime.org/team/221027" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQld9fEBZRTqk31ER_3JDwttV1g7rVWK2UEjFQIP2arpA&s" alt="CTFTime"></a>

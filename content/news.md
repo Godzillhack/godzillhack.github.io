@@ -1,6 +1,6 @@
 +++
 title = 'News'
-draft = true
+draft = false
 +++
 
 {{< news >}}

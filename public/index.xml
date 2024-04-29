@@ -2,60 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Godzill&#39;hack Team on Godzill&#39;hack</title>
+    
+    
+    
     <link>http://localhost:1313/</link>
     <description>Recent content in Godzill&#39;hack Team on Godzill&#39;hack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Mar 2024 13:36:17 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 14:14:04 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Home</title>
       <link>http://localhost:1313/home/</link>
       <pubDate>Tue, 26 Mar 2024 13:36:17 +0100</pubDate>
+      
       <guid>http://localhost:1313/home/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/hallofshame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/hallofshame/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 Godzill&#39;hack Hall of Shame Here is our result and WriteUp archives.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 Godzill&#39;hack Hall of Shame Here is our result and WriteUp archives.
+          
+        
+        </description>
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/hallofshame/2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/hallofshame/2023/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2023 Event&#39;s ByuCTF DeadSec Hero v5 PwnMe BYUCTF 2023 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.&#xA;Web : urmombotnetdotnet.com 1 Web : urmombotnetdotnet.com 2 Web : urmombotnetdotnet.com 3 Web : urmombotnetdotnet.com 4 Web : urmombotnetdotnet.com 5 Pentest : Mi6configuration 1 Pentest : Mi6configuration 3 Pentest : Mi6coniguration 4 Misc : 006 - 1 Misc : 006 - 2 Misc : 006 - 3 Reverse : Ducky 1 Reverse : ObfuscJStore Forensics : bing chilling DeadSec CTF 2023 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2023 Event&#39;s ByuCTF DeadSec Hero v5 PwnMe BYUCTF 2023 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.
+Web : urmombotnetdotnet.com 1 Web : urmombotnetdotnet.com 2 Web : urmombotnetdotnet.com 3 Web : urmombotnetdotnet.com 4 Web : urmombotnetdotnet.com 5 Pentest : Mi6configuration 1 Pentest : Mi6configuration 3 Pentest : Mi6coniguration 4 Misc : 006 - 1 Misc : 006 - 2 Misc : 006 - 3 Reverse : Ducky 1 Reverse : ObfuscJStore Forensics : bing chilling DeadSec CTF 2023 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.
+          
+        
+        </description>
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/hallofshame/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/hallofshame/2024/</guid>
-      <description>&lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2024 Event&#39;s UTCTF TexSaw CyberApocalypse Osu! UTCTF 2024 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.&#xA;Web : Beginner - Off-Brand Cookie Clicker Web : Schrödinger Forensics : Contracts Reverse : Fruit Deals You can find Zell WriteUp on his blog.&#xA;OSINT : OSINT 1 OSINT : OSINT 2 OSINT : OSINT 3 Texas Security Awareness Week 2024 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2024 Event&#39;s UTCTF TexSaw CyberApocalypse Osu! UTCTF 2024 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.
+Web : Beginner - Off-Brand Cookie Clicker Web : Schrödinger Forensics : Contracts Reverse : Fruit Deals You can find Zell WriteUp on his blog.
+OSINT : OSINT 1 OSINT : OSINT 2 OSINT : OSINT 3 Texas Security Awareness Week 2024 Result : TODO WriteUp : You can find V0lk3n WriteUp on his blog.
+          
+        
+        </description>
     </item>
+    
     <item>
       <title>About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/about/</guid>
-      <description>Godzill&#39;hack m0 Hi! I&#39;m m0.&#xA;InfoSec Student - CTF Player - Eternal Learner&#xA;Markusrost This is R0stM a cybersecurity enthusiast on his way to OSCP.&#xA;Trying to learn and share with other cybersecurity enthusiast !&#xA;Masahig Hey! Masashig3 here.&#xA;Blue/red/purple teamer, security enthousiaste, CTF player, on my way to OSCE3.&#xA;Sammy I am here for the fun and learning with the team. I am a serial thinker and cyber security enthusiast.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          m0 Hi! I&#39;m m0.
+InfoSec Student - CTF Player - Eternal Learner
+Markusrost This is R0stM a cybersecurity enthusiast on his way to OSCP.
+Trying to learn and share with other cybersecurity enthusiast !
+Masahig Hey! Masashig3 here.
+Blue/red/purple teamer, security enthousiaste, CTF player, on my way to OSCE3.
+Sammy I am here for the fun and learning with the team. I am a serial thinker and cyber security enthusiast.
+          
+        
+        </description>
     </item>
+    
     <item>
       <title>News</title>
       <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/news/</guid>
-      <description>&lt;!DOCTYPE html&gt; UTCTF 2024 - WriteUp Godzill’hack reached the 211th place with 3428 points against 854 teams at the UTCTF2024!&#xA;You can find our WriteUp Bellow :&#xA;- V0lk3n WriteUp&#xA;- Zell WriteUp&#xA;31/03/2024 Twitter Feed Tweets by godzillhack Note : If Twitter Feed doesn&#39;t display correctly, it may be blocked because content blocking is enabled into you&#39;r browser config. You should add &#34;https://platform.twitter.com&#34;, &#34;https://syndication.twitter.com&#34; to &#34;Cookies and Site Data&#34; in you&#39;r browser settings and reload this page.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;!DOCTYPE html&gt; UTCTF 2024 - WriteUp Godzill’hack reached the 211th place with 3428 points against 854 teams at the UTCTF2024!
+You can find our WriteUp Bellow :
+- V0lk3n WriteUp
+- Zell WriteUp
+31/03/2024 Twitter Feed # Tweets by godzillhack Note : If Twitter Feed doesn&#39;t display correctly, it may be blocked because content blocking is enabled into you&#39;r browser config. You should add &#34;https://platform.twitter.com&#34;, &#34;https://syndication.twitter.com&#34; to &#34;Cookies and Site Data&#34;
+          
+        
+        </description>
     </item>
+    
     <item>
       <title>Sam XP Logs : Latest Video</title>
       <link>http://localhost:1313/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/videos/</guid>
-      <description> Click on the logo to access his YouTube Channel! </description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           Click on the logo to access his YouTube Channel! 
+          
+        
+        </description>
     </item>
+    
   </channel>
 </rss>
