@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.godzillhack.com/</loc>
     <lastmod>2024-03-26T14:14:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://www.godzillhack.com/home/</loc>
     <lastmod>2024-03-26T13:36:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hallofshame/</loc>
+    <loc>https://www.godzillhack.com/hallofshame/</loc>
   </url><url>
-    <loc>http://localhost:1313/hallofshame/2023/</loc>
+    <loc>https://www.godzillhack.com/hallofshame/2023/</loc>
   </url><url>
-    <loc>http://localhost:1313/hallofshame/2024/</loc>
+    <loc>https://www.godzillhack.com/hallofshame/2024/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.godzillhack.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.godzillhack.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
+    <loc>https://www.godzillhack.com/news/</loc>
   </url><url>
-    <loc>http://localhost:1313/videos/</loc>
+    <loc>https://www.godzillhack.com/videos/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.godzillhack.com/tags/</loc>
   </url>
 </urlset>
