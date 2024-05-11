@@ -5,21 +5,21 @@
     
     
     
-    <link>https://www.godzillhack.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Godzill&#39;hack Team on Godzill&#39;hack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Mar 2024 14:14:04 +0100</lastBuildDate>
     
-	<atom:link href="https://www.godzillhack.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>https://www.godzillhack.com/home/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Tue, 26 Mar 2024 13:36:17 +0100</pubDate>
       
-      <guid>https://www.godzillhack.com/home/</guid>
+      <guid>http://localhost:1313/home/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title></title>
-      <link>https://www.godzillhack.com/hallofshame/</link>
+      <link>http://localhost:1313/hallofshame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.godzillhack.com/hallofshame/</guid>
+      <guid>http://localhost:1313/hallofshame/</guid>
       <description>
         
           
@@ -56,10 +56,10 @@
     
     <item>
       <title></title>
-      <link>https://www.godzillhack.com/hallofshame/2023/</link>
+      <link>http://localhost:1313/hallofshame/2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.godzillhack.com/hallofshame/2023/</guid>
+      <guid>http://localhost:1313/hallofshame/2023/</guid>
       <description>
         
           
@@ -77,10 +77,10 @@ Web : urmombotnetdotnet.com 1 Web : urmombotnetdotnet.com 2 Web : urmombotnetdot
     
     <item>
       <title></title>
-      <link>https://www.godzillhack.com/hallofshame/2024/</link>
+      <link>http://localhost:1313/hallofshame/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.godzillhack.com/hallofshame/2024/</guid>
+      <guid>http://localhost:1313/hallofshame/2024/</guid>
       <description>
         
           
@@ -89,7 +89,8 @@ Web : urmombotnetdotnet.com 1 Web : urmombotnetdotnet.com 2 Web : urmombotnetdot
         
         
         
-          &lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2024 Event&#39;s Insomni&#39;hack UTCTF TexSaw CyberApocalypse Osu! Insomni&#39;hack CTF 2024 Result : WriteUp : You can find V0lk3n WriteUp on his blog.
+          &lt;!DOCTYPE html&gt; Hall of Shame Menu 2024 2023 &lt;!DOCTYPE html&gt; 2024 Event&#39;s Punk DevSecOps Insomni&#39;hack UTCTF TexSaw CyberApocalypse Osu! Punk Security DevSecOps CTF 2024 Result : WriteUp : Unfortunately, no WriteUp for this event.
+Insomni&#39;hack CTF 2024 Result : WriteUp : You can find V0lk3n WriteUp on his blog.
 Crypto : Textbook Web : LetMeIn UTCTF 2024 Result : WriteUp : You can find V0lk3n WriteUp on his blog.
 Web : Beginner - Off-Brand Cookie Clicker Web : Schrödinger Forensics : Contracts Reverse : Fruit Deals You can find Zell WriteUp on his blog.
           
@@ -99,10 +100,10 @@ Web : Beginner - Off-Brand Cookie Clicker Web : Schrödinger Forensics : Contrac
     
     <item>
       <title>About Us</title>
-      <link>https://www.godzillhack.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.godzillhack.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>
         
           
@@ -125,10 +126,10 @@ Sammy I am here for the fun and learning with the team. I am a serial thinker an
     
     <item>
       <title>News</title>
-      <link>https://www.godzillhack.com/news/</link>
+      <link>http://localhost:1313/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.godzillhack.com/news/</guid>
+      <guid>http://localhost:1313/news/</guid>
       <description>
         
           
@@ -148,10 +149,10 @@ You can find our WriteUp Bellow :
     
     <item>
       <title>Sam XP Logs : Latest Video</title>
-      <link>https://www.godzillhack.com/videos/</link>
+      <link>http://localhost:1313/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.godzillhack.com/videos/</guid>
+      <guid>http://localhost:1313/videos/</guid>
       <description>
         
           
